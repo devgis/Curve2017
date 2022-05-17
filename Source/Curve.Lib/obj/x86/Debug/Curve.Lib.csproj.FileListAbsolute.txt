@@ -1,0 +1,5 @@
+E:\Temp\Curve\Curve.Lib\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\Curve\Curve.Lib\bin\Debug\Curve.Lib.dll
+E:\Temp\Curve\Curve.Lib\bin\Debug\Curve.Lib.pdb
+E:\Temp\Curve\Curve.Lib\obj\x86\Debug\Curve.Lib.dll
+E:\Temp\Curve\Curve.Lib\obj\x86\Debug\Curve.Lib.pdb

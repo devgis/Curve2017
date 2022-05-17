@@ -1,0 +1,11 @@
+E:\Temp\Curve\Curve\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\Curve\Curve\obj\x86\Debug\Curve.Form1.resources
+E:\Temp\Curve\Curve\obj\x86\Debug\Curve.Properties.Resources.resources
+E:\Temp\Curve\Curve\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Temp\Curve\Curve\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Temp\Curve\Curve\bin\Debug\Curve.exe
+E:\Temp\Curve\Curve\bin\Debug\Curve.pdb
+E:\Temp\Curve\Curve\bin\Debug\Curve.Lib.dll
+E:\Temp\Curve\Curve\bin\Debug\Curve.Lib.pdb
+E:\Temp\Curve\Curve\obj\x86\Debug\Curve.exe
+E:\Temp\Curve\Curve\obj\x86\Debug\Curve.pdb
